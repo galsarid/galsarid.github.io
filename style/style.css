@@ -143,9 +143,7 @@ ol li
 #menubar
 { width: 898px;
   height: 46px;
-  padding: 0 0 0 4px;
-  position:absolute;
-} 
+  padding: 0 0 0 4px;} 
 
 ul#menu
 { float: right;

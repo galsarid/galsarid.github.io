@@ -225,12 +225,12 @@ h3 {
 }
 
 .hero-visual {
-    border-radius:28px;
-    overflow:hidden;
-    box-shadow:var(--shadow);
-    border:1px solid #253f45;
-    background:#06131b
     margin: 0;
+    border-radius: 28px;
+    overflow: hidden;
+    box-shadow: var(--shadow);
+    border: 1px solid #253f45;
+    background: transparent;
 }
 
 .hero-visual img {
@@ -894,7 +894,7 @@ h3 {
 .hero-media-stack {
     display:grid;
     gap:14px;
-    min-width:0
+    min-width:0;
     align-self: start;
     margin-top: 40px;
 }

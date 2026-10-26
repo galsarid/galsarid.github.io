@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://galsarid.github.io/sitemap.xml
